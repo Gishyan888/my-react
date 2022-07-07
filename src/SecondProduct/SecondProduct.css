@@ -1,0 +1,13 @@
+.block2{
+    float: left;
+}
+.block2 img{
+    width: 250px;
+    height: 300px;
+}
+.counter2{
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
